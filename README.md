@@ -46,3 +46,21 @@ Abra o terminal na pasta raiz do projeto e execute o comando para baixar as bibl
 
 ```bash
 npm install
+```
+
+### 2. Executar o Projeto
+
+Após a instalação, inicie o servidor local:
+```bash
+npm start
+```
+
+### 3. Acessar a aplicação
+O sistema abrirá automaticamente no seu navegador padrão. Caso não abra, acesse manualmente através do endereço:
+
+🔗 http://localhost:3000
+
+## 👤 Autor
+Giovanni Kanjiscuk - Estudante de Tecnologia - Técnicas de Programação II
+
+Desenvolvido como requisito avaliativo para a ATVIV - Atlantis Water Park.
