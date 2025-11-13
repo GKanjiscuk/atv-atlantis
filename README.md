@@ -1,8 +1,10 @@
-# ativade de técnicas de prograação II - atlantis III
+# Ativade Atlantis de Técnicas de Programação II - Atlantis III
 
 Comandos para execução:
 ```
 npm install
 
-npm start
+tsc
+
+node src/js/app/app.js
 ```
